@@ -1,0 +1,6 @@
+module Pods_patika_first_work {
+  umbrella header "Pods-patika_first_work-umbrella.h"
+
+  export *
+  module * { export * }
+}
